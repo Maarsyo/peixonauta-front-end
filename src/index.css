@@ -16,6 +16,7 @@ html, body {
   color: var(--text-color);
 }
 
+
 body {
   background: linear-gradient(to right, var(--bg-start), var(--bg-end));
   display: flex;
